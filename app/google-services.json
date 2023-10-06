@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "67345310225",
+    "firebase_url": "https://my-music-app-e99a4-default-rtdb.firebaseio.com",
+    "project_id": "my-music-app-e99a4",
+    "storage_bucket": "my-music-app-e99a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67345310225:android:d8ff1dce8c98063cbd47b0",
+        "android_client_info": {
+          "package_name": "com.example.mymusicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEY6G8yueuiSdSIMmEHYLg221EJxCmhTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
